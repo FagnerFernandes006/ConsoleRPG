@@ -1,0 +1,14 @@
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.exe
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.deps.json
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.runtimeconfig.dev.json
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.dll
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\bin\Debug\netcoreapp3.1\ConsoleRPG.pdb
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.dll
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.pdb
+C:\Users\Fagner Fernandes\source\repos\ConsoleRPG\ConsoleRPG\obj\Debug\netcoreapp3.1\ConsoleRPG.genruntimeconfig.cache

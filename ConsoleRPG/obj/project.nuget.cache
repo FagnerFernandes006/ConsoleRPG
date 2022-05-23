@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6t37rnGoOITfJeUokPgGv+R9A14ej+5EPfrrTXUUycG4XS57LEq8EHHNkTVu6cqb0K5JSLg7KQYR03RdPDKYzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fagner Fernandes\\source\\repos\\ConsoleRPG\\ConsoleRPG\\ConsoleRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fagner Fernandes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Fagner Fernandes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Fagner Fernandes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fagner Fernandes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
